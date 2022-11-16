@@ -3,8 +3,10 @@ import json
 import time
 import json_data
 import header_data
+import getAuth
 import logging
 import random
+from appJar import gui
 
 logging.basicConfig(format="%(asctime)s \n\t%(message)s", level=logging.INFO)
 
@@ -26,6 +28,8 @@ def get_offer_list():
         return [accept_block(block) for block in j["offerList"] if filter_blocks(block)]
     except KeyError:
         return j["message"]
+    except:
+        header_data.headers['x-amz-access-token'], header_data.headers['X-Amzn-RequestId'] = getAuth.getAuthToken()
 
 
 def filter_blocks(block):
@@ -57,8 +61,13 @@ def accept_block(block):
 
     return accept.status_code
 
-
-if __name__ == "__main__":
+def press(button):
+    if button == "Cancel":
+        app.stop()
+        return None
+    else:
+        json_data.auth_json_data["auth_data"]["user_id_password"]["user_id"] = app.getEntry("Email:")
+        json_data.auth_json_data["auth_data"]["user_id_password"]["password"] = app.getEntry("Password:")
 
     keepItUp = True
     while keepItUp:
@@ -72,3 +81,21 @@ if __name__ == "__main__":
             break
 
         time.sleep(random.random())
+
+
+
+if __name__ == "__main__":
+
+    #header_data.headers['x-amz-access-token'], header_data.headers['X-Amzn-RequestId'] = getAuth.getAuthToken()
+
+    app = gui()
+    app.addLabelEntry("Email:")
+    app.addLabelSecretEntry("Password:")
+    app.addLabelOptionBox("Max Block Length:", ["3", "3.5", "4", "4.5", "5"])
+    app.addLabelEntry("Min Per Hour:")
+    app.button('Accessibility', app.showAccess, icon='ACCESS')
+    app.go()
+
+
+
+
