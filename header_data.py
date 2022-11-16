@@ -16,3 +16,9 @@ headers = {
 # Leave these here to delete the unneeded headers that will cause problems running the script
 del headers["X-Flex-Client-Time"]
 del headers["X-Amz-Date"]
+
+
+authHeaders = {
+        "x-amzn-identity-auth-domain": "api.amazon.com",
+        "User-Agent": "AmazonWebView/Amazon Flex/0.0/iOS/15.2/iPhone",
+    }

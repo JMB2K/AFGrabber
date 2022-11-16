@@ -1,0 +1,44 @@
+~~~~MIAMI-DADE~~~~
+29571892-da88-4089-83f0-24135852c2e4	Miami (UFL2) - Fresh Online
+d39e54d6-1a53-46a9-a22d-309342256ef0	Miami Davie (C072) - Whole Foods
+d15e18ec-66c7-42ae-8599-9f27f82b19cc	Fort Lauderdale - (C465) Whole Foods
+fd440da5-dc81-43bf-9afe-f4910bfd4090	Miami Pembroke Pines (C074) - Whole Foods
+ffbac4b5-8850-48e8-86bd-4403685d46d7	Miami (DMI9) - Amazon.com
+b90b085e-874f-48da-8150-b0c215efff08	South Miami (C314) - Whole Foods
+f4342003-fb20-4761-9998-a1aca8133c23	Pompano Beach (DMF3)- Amazon.com
+50ade688-5ae2-48ce-a83c-f0af3fa4a22a	Virginia Gardens - (DMI3) AMZL
+d98c442b-9688-4427-97b9-59a4313c2f66	Miami Downtown Miami (C073) - Whole Foods
+d42d1888-f102-49e1-b524-6db352dd6d31	Hialeah (DMF1)- Amazon.com
+a6b8cf91-1a26-495e-bc7a-6b7f5324a17d	Miami (DVB7)-Amazon.com
+dd00cb2b-349b-480c-a2d0-5aff2c3fd293	Sunrise - (DMI4) AMZL
+fd409ef8-f297-4543-9b93-6a5e93184313	Miami - (DMI6) AMZL
+a5e1a8d5-c368-4cb8-a2c6-3b71b3eb8178	Hialeah FL (VFL2) - Sub Same-Day
+5540b055-ee3c-4274-9997-de65191d6932	Miami (UFL6) - Fresh Online
+09cc7bbd-919c-4dec-be50-9a71ab0ca07e	Mizner Park (PMAQ) - Retail Delivery
+ad13a80a-0d93-444c-a660-1b5f65e53626	Pembroke Park (RFL1) - Community Delivery
+5891b812-04ab-405b-8336-355a1f75e48e	Pembroke Park (DVB5)-Amazon.com
+00091261-49d3-4d1f-9720-d76cbd2b2401	Aventura Mall (PAAD) – Retail Delivery
+724fcdc1-82a8-4cf9-90db-ba6f5b7e246e	Miami Boca Raton (C070) - Whole Foods
+c059f4c8-35bd-4a43-848f-38cb7d9eec9c	Miami South Beach - (C492) Whole Foods
+37fe42b7-2a8e-4aca-8b5d-7836e38ff1c4	Miami FL (NMI2)
+49d080a7-a765-47cf-a29e-0f1842958d4a	North Miami (C125) - Whole Foods
+8c81c54f-6a60-405c-b095-43d9b9bc99c2	Tamarac FL (VFL3) - Sub Same-Day
+f9530032-4659-4a14-b9e1-19496d97f633	Miami Dadeland (C071) - Whole Foods
+e7765dce-8d20-41b6-a038-9856323d4db6	West Palm Beach - (DMI7) AMZL
+5e29665d-f6d5-4ff2-8558-fc197eeb84a1	Fort Lauderdale (DFH1)- Amazon.com
+12bb7066-fac1-4412-83e8-a63247d4a946	Miami West Palm Beach (C075) - Whole Foods
+f78af44a-613a-4cea-bfd4-7ad17da2719d	Miami (DMF5)- Amazon.com
+dbff6260-ad56-4ee2-8ec0-423a12d8d7fa	Deerfield Beach (DVB4)- Amazon.com
+221c60b4-2825-4fdf-80de-360cdc73e8f4	Boca Raton (DMO6)- Amazon.com
+ca2b3909-034b-4009-bbcb-1c27db8ae86c	Town Center at Boca Raton (PTAI) - Retail Delivery
+~~~~CLEVELAND~~~~
+191492ca-c629-4090-bc74-2dd82e74a21f	Euclid - (DCL1) AMZL
+a990b38b-a788-43e4-998b-881fa5989708	Cleveland University Center (C162) - Whole Foods
+3b5d06e7-3186-4ff9-9165-4e298534c273	Cleveland (DCL7)- Amazon.com
+6f6b6701-a672-472e-be2d-640e55f719ac	Bedford (DCL4)-Amazon.com
+9bd0adcb-33e5-4d77-aa0a-52534db8c16f	Middleburg Heights OH (VOH1) - Sub Same-Day
+0ed203a7-e371-4ed6-b44d-e73a2679917b	Crocker Park (PCCF) - Retail Delivery
+c0554d15-cf85-4914-aeb4-68290876d0d9	Eton Chagrin Boulevard (PEAM) - Retail Delivery
+5f83bf59-c332-4ca9-815f-0de4cc2cbbf5	Cleveland Rocky River (C166) - Whole Foods
+93db79b7-c32e-4c24-8802-dad137191594	Solon (DCM3)- Amazon.com
+41895078-8477-4b70-ab92-60799ac6aa30	Brooklyn (DCL9) - Amazon.com
